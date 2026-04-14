@@ -1,5 +1,7 @@
 # The-User-Voice-Types
 
+[![Claude Code Repos Index](https://img.shields.io/badge/Claude%20Code-Repos%20Index-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
+
 Drop-in snippets and slash commands for Claude Code users who dictate or type messily. They tell Claude to silently infer around transcription errors and erratic keystrokes instead of stopping to ask.
 
 ## Why this exists
@@ -42,3 +44,7 @@ Installed by `/install`, or copy the files in [`commands/`](commands/) to `~/.cl
 | `/hands-tied` | "My hands are occupied (parenting, etc.) — expect typos for the next while, just infer around them." |
 
 Both commands tell Claude to handle the situation silently: no "I interpreted that as…" preambles, no clarification requests for obvious slips.
+
+---
+
+For more Claude Code projects, visit [my index](https://github.com/danielrosehill/Claude-Code-Repos-Index).
